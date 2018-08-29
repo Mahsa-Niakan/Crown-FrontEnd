@@ -1,0 +1,16 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#e1700c</item>
+        <item name="colorPrimaryDark">#3b3b3b</item>
+        <item name="colorAccent">#ffffff</item>
+        <item name="android:typeface">monospace</item>
+
+    </style>
+    <style name="AppBarOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

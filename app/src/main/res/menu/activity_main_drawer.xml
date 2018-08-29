@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_useraccount"
+            android:icon="@drawable/ic_person_black_24dp"
+            android:title="حساب کاربری" />
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home_black_24dp"
+            android:title="صفحه اصلی" />
+        <item
+            android:id="@+id/nav_activeAds"
+            android:icon="@drawable/ic_description_black_24dp"
+            android:title="آگهی های فعال" />
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/ic_history_black_24dp"
+            android:title="تاریخچه" />
+
+        <item
+            android:id="@+id/nav_favourite"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="علاقمندی ها" />
+    </group>
+
+    <item android:title="ارتباطات">
+        <menu>
+            <item
+                android:id="@+id/nav_message"
+                android:icon="@drawable/ic_message_black_24dp"
+                android:title="پیام ها" />
+            <item
+                android:id="@+id/nav_support"
+                android:icon="@drawable/ic_headset_mic_black_24dp"
+                android:title="پشتیبانی" />
+            <item
+                android:id="@+id/nav_exit"
+                android:icon="@drawable/ic_exit_to_app_black_24dp"
+                android:title="خروج" />
+        </menu>
+    </item>
+
+</menu>

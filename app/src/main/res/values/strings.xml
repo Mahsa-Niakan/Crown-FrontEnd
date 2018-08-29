@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">کلاغ</string>
+    <string name="title_activity_main">صفحه اصلی</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">ورود</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">شماره تلفن</string>
+    <string name="prompt_password">رمز عبور</string>
+    <string name="action_sign_in">ورود</string>
+    <string name="action_sign_in_short">ثبت نام</string>
+    <string name="error_invalid_email">این شماره تلفن اشتباه است</string>
+    <string name="error_invalid_password">تعداد کاراکترهای رمز عبور کمتر از حد مجاز است</string>
+    <string name="error_incorrect_password">رمز عبور اشتباه است</string>
+    <string name="error_field_required">این قسمت را تکمیل کنید</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+</resources>
